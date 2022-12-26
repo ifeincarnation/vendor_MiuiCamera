@@ -99,9 +99,9 @@
     <!--whether support burst shoot denoise in camera-->
     <bool name="support_camera_burst_shoot_denoise">true</bool>
     <!--whether support solid recording in camera-->
-    <bool name="support_camera_movie_solid">false</bool>
+    <bool name="support_camera_movie_solid">true</bool>
     <!--whether support shader effect in camera-->
-    <bool name="support_camera_shader_effect">true</bool>
+    <bool name="support_camera_shader_effect">false</bool>
     <!-- whether camera support India special filter -->
     <bool name="camera_support_india_filter">true</bool>
     <!--whether support skin beauty in camera-->
